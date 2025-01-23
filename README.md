@@ -1,6 +1,6 @@
 # KiraScript
 
-KiraScript is a simple and intuitive programming language designed for clean syntax and ease of use. This document provides an overview of the KiraScript language, including its syntax, features, and built-in functions.
+KiraScript is a simple and intuitive programming language designed for clean syntax and ease of use. This document provides an overview of the KiraScript language, including its syntax, features, and built-in functions. **Ironically**
 
 ## Table of Contents
 
