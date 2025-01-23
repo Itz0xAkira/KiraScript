@@ -24,9 +24,9 @@ KiraScript is a simple and intuitive programming language designed for clean syn
 
 ## Features
 
-- Clean and minimalistic syntax.
+- Clean and minimalistic syntax because I have no idea how to implement other stuff :P.
 - Easy handling of variables and constants.
-- Functions (called "recipes") with support for nested logic.
+- Functions (called "recipes") with support for nested logic so you can write your awful code in a awful new language :D.
 - Built-in functions for common operations.
 - Support for dynamic and strongly typed variables.
 
