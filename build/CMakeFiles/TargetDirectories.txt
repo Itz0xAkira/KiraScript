@@ -1,3 +1,0 @@
-/home/akira/Desktop/Projects/KiraScript/build/CMakeFiles/KiraScript.dir
-/home/akira/Desktop/Projects/KiraScript/build/CMakeFiles/edit_cache.dir
-/home/akira/Desktop/Projects/KiraScript/build/CMakeFiles/rebuild_cache.dir
